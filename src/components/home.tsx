@@ -17,7 +17,7 @@ const Home = () => {
         <div className="container flex items-center justify-between h-16 px-4 mx-auto">
           <div className="flex items-center space-x-2">
             <MapIcon className="w-6 h-6 text-blue-600" />
-            <h1 className="text-xl font-bold">Alaska Permafrost Monitor</h1>
+            <h1 className="text-xl font-bold">ALASKA PERMAFROST MONITOR</h1>
           </div>
 
           <nav className="hidden md:flex items-center space-x-6">
@@ -207,8 +207,8 @@ const Home = () => {
           </div>
           <div className="mt-6 pt-6 border-t border-gray-700 text-center text-sm text-gray-400">
             <p>
-              © {new Date().getFullYear()} Alaska Permafrost Monitor. All
-              rights reserved.
+              © {new Date().getFullYear()} Alaska Permafrost Monitor. All rights
+              reserved.
             </p>
           </div>
         </div>

@@ -186,7 +186,7 @@ const DataDashboard = () => {
   return (
     <div className="container mx-auto py-8 bg-background">
       <div className="mb-8">
-        <h1 className="text-3xl font-bold mb-2">Data Dashboard</h1>
+        <h1 className="text-3xl font-bold mb-2">Dashboard</h1>
         <p className="text-muted-foreground">
           Explore temperature trends and climate change impacts across Alaska
         </p>
