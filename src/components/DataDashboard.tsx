@@ -164,10 +164,10 @@ const DataDashboard = () => {
                       region.riskLevel === "low"
                         ? "bg-green-200 text-green-800"
                         : region.riskLevel === "medium"
-                          ? "bg-yellow-200 text-yellow-800"
-                          : region.riskLevel === "high"
-                            ? "bg-orange-200 text-orange-800"
-                            : "bg-red-200 text-red-800"
+                        ? "bg-yellow-200 text-yellow-800"
+                        : region.riskLevel === "high"
+                        ? "bg-orange-200 text-orange-800"
+                        : "bg-red-200 text-red-800"
                     }`}
                   >
                     {region.riskLevel.charAt(0).toUpperCase() +
@@ -248,10 +248,10 @@ const DataDashboard = () => {
                 {timeFilter === "1year"
                   ? "the last 12 months"
                   : timeFilter === "5years"
-                    ? "the last 5 years"
-                    : timeFilter === "10years"
-                      ? "the last 10 years"
-                      : "the last 30 years"}
+                  ? "the last 5 years"
+                  : timeFilter === "10years"
+                  ? "the last 10 years"
+                  : "the last 30 years"}
               </CardDescription>
             </CardHeader>
             <CardContent>
