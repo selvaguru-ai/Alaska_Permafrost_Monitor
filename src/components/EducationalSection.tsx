@@ -111,7 +111,7 @@ const EducationalSection = () => {
                     className="w-full h-48 object-cover rounded-md mb-4"
                   />
                   <p className="text-gray-700">
-                    For thousands of years, Alaska Native communities have
+                    For thousands of years ago, Alaska Native communities have
                     developed ways of life adapted to permafrost landscapes.
                     Thawing affects traditional hunting and gathering practices,
                     food storage methods, and even the preservation of cultural
